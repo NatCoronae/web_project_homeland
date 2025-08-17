@@ -12,3 +12,5 @@ Este proyecto aprendi a realizar web responsiva en diferentes dispositivos (desk
 - **Git y GitHub** control de versiones y despliegue.
 
 ## Enlace a GitHub Pages
+
+https://natcoronae.github.io/web_project_homeland/
